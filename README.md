@@ -42,7 +42,7 @@ The analysis is carried out through the following steps:
 
 To run the Jupyter Notebook in this repository, you'll need to install the required Python libraries. You can do this using `pip` and the provided `requirements.txt` file.
 
-### Using pip
+### Steps
 
 1. Clone the repository:
 
