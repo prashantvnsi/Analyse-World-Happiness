@@ -51,10 +51,12 @@ To run the Jupyter Notebook in this repository, you'll need to install the requi
 
 2. Navigate to the project directory:
 
+    ```bash
     cd Analyse-World-Happiness
 
 3. Install the required libraries:
 
+    ```
     pip install -r requirements.txt
 
 4. Run the Unraveling the Science of Happiness.ipynb file from Jupyter notebook
